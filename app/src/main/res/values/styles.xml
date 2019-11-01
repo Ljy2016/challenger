@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="QMUI.Compat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/cl_FEB70D</item>
+        <item name="colorPrimaryDark">@color/cl_f6a623</item>
+        <item name="colorAccent">@color/cl_FEB70D</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

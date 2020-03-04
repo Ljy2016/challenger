@@ -12,7 +12,7 @@ public class Config {
     // The endpoint value below is just the example. Please use proper value according to your region
 
     // 访问的endpoint地址
-    public static final String OSS_ENDPOINT = "http://oss-cn-shanghai.aliyuncs.com";
+    public static final String OSS_ENDPOINT = "http://oss-cn-shenzhen.aliyuncs.com";
     //callback 测试地址
     public static final String OSS_CALLBACK_URL = "http://oss-demo.aliyuncs.com:23450";
     // STS 鉴权服务器地址。
